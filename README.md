@@ -45,3 +45,7 @@ public static void throwIOException(Integer i) throws IOException {
 	throw new IOException(i + " occurs IOException");
 }
 ```
+
+## Example
+
+![code example](https://raw.githubusercontent.com/instaer/imgurl/master/20200807-exception-consumer-wrapper-readme.png)
